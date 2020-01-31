@@ -1,0 +1,4 @@
+#Fri Jan 31 11:15:35 IST 2020
+base.0=C\:\\Users\\Tushar Nikam\\Desktop\\youtube-master\\build\\app\\intermediates\\dex\\debug\\mergeDexDebug\\out\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
