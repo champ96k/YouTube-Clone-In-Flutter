@@ -24,7 +24,7 @@ class MyApp extends StatelessWidget {
       themedWidgetBuilder: (context, theme) {
         return new MaterialApp(
           debugShowCheckedModeBanner: false,
-          title: 'Flutter Demo',
+          title: 'Youtube',
           theme: theme,
           home: Home(),
         );
